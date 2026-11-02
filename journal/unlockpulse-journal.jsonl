@@ -18,3 +18,5 @@
 {"event": "result", "id": "fun:2026-11-01", "sym": "FUN", "price_after": 0.013809050086355426, "price_after_time_ms": 1793493061594, "written_utc": "2026-11-01T00:41:03Z"}
 {"event": "result", "id": "kite:2026-11-01", "sym": "KITE", "price_after": 0.11349537013857272, "price_after_time_ms": 1793493061594, "written_utc": "2026-11-01T00:41:03Z"}
 {"event": "recorded", "id": "kite:2026-11-03", "sym": "KITE", "unlock_date_utc": "2026-11-03T13:00:00+00:00", "share_of_circulating": 0.3045, "type": "cliff", "value_usd": 97574100.67517817, "recorded_utc": "2026-11-01T08:41:55+00:00", "price_at_record": 0.12196762584397271, "price_time_ms": 1793522515184, "expectation": "strong unlock: in our archive 68 of 100 were weaker than BTC in the 7 days before; market data, not a trade"}
+{"event": "result", "id": "aio:2026-11-02", "sym": "AIO", "price_after": 0.03201167514165929, "price_after_time_ms": 1793579461681, "written_utc": "2026-11-02T00:41:03Z"}
+{"event": "result", "id": "btg:2026-11-02", "sym": "BTG", "price_after": 0.6862412782248218, "price_after_time_ms": 1793579461681, "written_utc": "2026-11-02T00:41:03Z"}
