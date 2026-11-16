@@ -59,3 +59,4 @@
 {"event": "result", "id": "light:2026-11-15", "sym": "LIGHT", "price_after": 0.23462486549469258, "price_after_time_ms": 1794702661648, "written_utc": "2026-11-15T00:41:03Z"}
 {"event": "result", "id": "p:2026-11-15", "sym": "P", "price_after": 0.009819641690099497, "price_after_time_ms": 1794702661648, "written_utc": "2026-11-15T00:41:03Z"}
 {"event": "result", "id": "porto:2026-11-15", "sym": "PORTO", "price_after": 0.32727577451088347, "price_after_time_ms": 1794702661648, "written_utc": "2026-11-15T00:41:03Z"}
+{"event": "result", "id": "roll:2026-11-16", "sym": "ROLL", "price_after": 0.05382609346260422, "price_after_time_ms": 1794789061340, "written_utc": "2026-11-16T00:41:03Z"}
