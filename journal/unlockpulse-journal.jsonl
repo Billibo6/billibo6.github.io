@@ -61,3 +61,4 @@
 {"event": "result", "id": "porto:2026-11-15", "sym": "PORTO", "price_after": 0.32727577451088347, "price_after_time_ms": 1794702661648, "written_utc": "2026-11-15T00:41:03Z"}
 {"event": "result", "id": "roll:2026-11-16", "sym": "ROLL", "price_after": 0.05382609346260422, "price_after_time_ms": 1794789061340, "written_utc": "2026-11-16T00:41:03Z"}
 {"event": "recorded", "id": "mon:2026-11-24", "sym": "MON", "unlock_date_utc": "2026-11-24T00:00:00+00:00", "share_of_circulating": 1.416, "type": "cliff", "value_usd": 254176550, "recorded_utc": "2026-11-16T18:31:01+00:00", "price_at_record": 0.015213513643821567, "price_time_ms": 1794853861654, "expectation": "strong unlock: in our archive 68 of 100 were weaker than BTC in the 7 days before; market data, not a trade"}
+{"event": "result", "id": "apm:2026-11-17", "sym": "APM", "price_after": 0.0041850644158541355, "price_after_time_ms": 1794875461201, "written_utc": "2026-11-17T00:41:04Z"}
