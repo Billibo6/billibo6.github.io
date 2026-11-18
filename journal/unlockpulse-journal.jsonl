@@ -66,3 +66,4 @@
 {"event": "result", "id": "public:2026-11-15", "sym": "PUBLIC", "price_after": 0, "price_after_time_ms": null, "written_utc": "2026-11-17T13:41:04Z"}
 {"event": "result", "id": "era:2026-11-17", "sym": "ERA", "price_after": 0.07336132005609985, "price_after_time_ms": 1794922261482, "written_utc": "2026-11-17T13:41:04Z"}
 {"event": "result", "id": "bee:2026-11-18", "sym": "BEE", "price_after": 0.022180056232140873, "price_after_time_ms": 1794961861444, "written_utc": "2026-11-18T00:41:03Z"}
+{"event": "recorded", "id": "coai:2026-11-25", "sym": "COAI", "unlock_date_utc": "2026-11-25T07:00:00+00:00", "share_of_circulating": 0.1076, "type": "linear", "value_usd": 3665617, "recorded_utc": "2026-11-18T01:31:01+00:00", "price_at_record": 0.1811638245135396, "price_time_ms": 1794965461970, "expectation": "strong unlock: in our archive 68 of 100 were weaker than BTC in the 7 days before; market data, not a trade"}
