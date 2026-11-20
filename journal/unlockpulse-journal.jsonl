@@ -74,3 +74,4 @@
 {"event": "result", "id": "zest:2026-11-19", "sym": "ZEST", "price_after": 0.11183311409431794, "price_after_time_ms": 1795048261237, "written_utc": "2026-11-19T00:41:04Z"}
 {"event": "result", "id": "drx:2026-11-18", "sym": "DRX", "price_after": 0, "price_after_time_ms": null, "written_utc": "2026-11-20T00:41:04Z"}
 {"event": "result", "id": "mwxt:2026-11-20", "sym": "MWXT", "price_after": 0.030560101440202037, "price_after_time_ms": 1795156263120, "written_utc": "2026-11-20T06:41:04Z"}
+{"event": "result", "id": "elsa:2026-11-20", "sym": "ELSA", "price_after": 0.059174931456597774, "price_after_time_ms": 1795163461663, "written_utc": "2026-11-20T08:41:03Z"}
