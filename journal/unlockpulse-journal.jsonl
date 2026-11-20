@@ -72,3 +72,4 @@
 {"event": "result", "id": "xl1:2026-11-16", "sym": "XL1", "price_after": 0, "price_after_time_ms": null, "written_utc": "2026-11-18T17:41:03Z"}
 {"event": "recorded", "id": "huma:2026-11-26", "sym": "HUMA", "unlock_date_utc": "2026-11-26T00:00:00+00:00", "share_of_circulating": 0.349, "type": "linear", "value_usd": 5337876, "recorded_utc": "2026-11-18T18:31:01+00:00", "price_at_record": 0.00892344040627875, "price_time_ms": 1795026661451, "expectation": "strong unlock: in our archive 68 of 100 were weaker than BTC in the 7 days before; market data, not a trade"}
 {"event": "result", "id": "zest:2026-11-19", "sym": "ZEST", "price_after": 0.11183311409431794, "price_after_time_ms": 1795048261237, "written_utc": "2026-11-19T00:41:04Z"}
+{"event": "result", "id": "drx:2026-11-18", "sym": "DRX", "price_after": 0, "price_after_time_ms": null, "written_utc": "2026-11-20T00:41:04Z"}
