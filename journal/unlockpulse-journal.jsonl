@@ -91,3 +91,4 @@
 {"event": "result", "id": "mon:2026-11-24", "sym": "MON", "price_after": 0.011565556870460186, "price_after_time_ms": 1795480261169, "written_utc": "2026-11-24T00:41:03Z"}
 {"event": "result", "id": "reppo:2026-11-22", "sym": "REPPO", "price_after": 0, "price_after_time_ms": null, "written_utc": "2026-11-24T00:41:03Z"}
 {"event": "recorded", "id": "aio:2026-12-02", "sym": "AIO", "unlock_date_utc": "2026-12-02T00:00:00+00:00", "share_of_circulating": 0.1147, "type": "linear", "value_usd": 766246, "recorded_utc": "2026-11-24T18:31:01+00:00", "price_at_record": 0.02901003509050077, "price_time_ms": 1795545061830, "expectation": "strong unlock: in our archive 68 of 100 were weaker than BTC in the 7 days before; market data, not a trade"}
+{"event": "result", "id": "coai:2026-11-25", "sym": "COAI", "price_after": 0.1621034885255267, "price_after_time_ms": 1795591861974, "written_utc": "2026-11-25T07:41:03Z"}
